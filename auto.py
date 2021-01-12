@@ -59,6 +59,7 @@ params = {
     }
 """
 custom_params = [
+   ["sfzx","0"],
    ["area","陕西省 商洛市 商州区"],
    ["city","商洛市"],
    ["address","陕西省商洛市商州区北新街106号"],
