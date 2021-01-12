@@ -59,10 +59,10 @@ params = {
     }
 """
 custom_params = [
-   ["area":"陕西省 商洛市 商州区"]
-   ["city":"商洛市"]
-   ["address":"陕西省商洛市商州区北新街106号"]
-   ["geo_api_info":'{"type":"complete","info":"SUCCESS","status":1,"$Da":"jsonp_687452_","position":{"Q":33.868733,"R":109.941242,"lng":109.941242,"lat":33.868733},"message":"Get ipLocation success.Get address success.","location_type":"ip","accuracy":null,"isConverted":true,"addressComponent":{"citycode":"0914","adcode":"611002","businessAreas":[],"neighborhoodType":"","neighborhood":"","building":"","buildingType":"","street":"北新街","streetNumber":"106号","country":"中国","province":"陕西省","city":"商洛市","district":"商州区","township":""},"formattedAddress":"陕西省商洛市商州区北新街|106号","roads":[],"crosses":[],"pois":[]}']
+   ["area","陕西省 商洛市 商州区"]
+   ["city","商洛市"]
+   ["address","陕西省商洛市商州区北新街106号"]
+   ["geo_api_info",'{"type":"complete","info":"SUCCESS","status":1,"$Da":"jsonp_687452_","position":{"Q":33.868733,"R":109.941242,"lng":109.941242,"lat":33.868733},"message":"Get ipLocation success.Get address success.","location_type":"ip","accuracy":null,"isConverted":true,"addressComponent":{"citycode":"0914","adcode":"611002","businessAreas":[],"neighborhoodType":"","neighborhood":"","building":"","buildingType":"","street":"北新街","streetNumber":"106号","country":"中国","province":"陕西省","city":"商洛市","district":"商州区","township":""},"formattedAddress":"陕西省商洛市商州区北新街|106号","roads":[],"crosses":[],"pois":[]}']
 ]
 
 
