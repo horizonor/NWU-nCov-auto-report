@@ -254,7 +254,7 @@ def main(username='',password=''):
         if res=="操作成功":
             print("\n[FINAL] 自动填报成功")
             return
-        elif res=="您已上报过" or res=="未到上报时间":
+        elif res=="您已上报过哦11" or res=="未到上报时间":
             print("\n[FINAL] 还不用填报哦~")
             return
         else:
