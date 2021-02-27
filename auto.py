@@ -252,10 +252,10 @@ def main(username='',password=''):
     else:
         res = sent_report(cookies=cookies_res)
         if res=="操作成功":
-            print("\n[FINAL] 自动填报成功")
+            print("\n[FINAL] 自动填报成功哦哦")
             return
-        elif res=="您已上报过哦11" or res=="未到上报时间":
-            print("\n[FINAL] 还不用填报哦~")
+        elif res=="您已上报过" or res=="未到上报时间":
+            print("\n[FINAL] 还不用填报哦哦~")
             return
         else:
             if retry_max>0:
@@ -263,7 +263,7 @@ def main(username='',password=''):
                 retry_max = retry_max-1
                 main()
             else:
-                print("\n[ERROR] [FINAL] 超过最大重试次数，填报失败！")
+                print("\n[ERROR] [FINAL] 超过最大重试次数，填报失败哦！")
 
 
 
